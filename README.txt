@@ -2,5 +2,4 @@
 200653343_Training_and_detection_EEE8087.ipynb----------> Training the model, object detection and trilateration
 saved_model.pb---------------------> TFlite for RaspberryPi
 Technical report 200653343---------------> Technical report// available in word and pdf
-200653343_EEE8097.mp4-----------------> Project Demo
 CAMERA BASED INDOOR POSITIONING SYSTEM USING RASPBERRY PI------------------> Project presentation
